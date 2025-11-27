@@ -1,0 +1,5 @@
+# 1 comment
+print("1")
+print("2") # hidden comment
+# 2 comment
+    print("hellow world!")
